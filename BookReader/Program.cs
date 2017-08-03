@@ -8,8 +8,8 @@ using Microsoft.AspNetCore.Hosting;
  Program Name : Program.cs
  Description : this is the web applilcation to register books users like
  Author: Chinatsu Kawakami
- Date: 2nd August 2017
- Versiton : 0.0.1 initial commit
+ Created Date: 2nd August 2017
+ Versiton : 0.0.2 add Exception Handler in Startup.cs  
  */
 namespace BookReader
 {
