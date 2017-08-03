@@ -9,7 +9,7 @@ using Microsoft.AspNetCore.Hosting;
  Description : this is the web applilcation to register books users like
  Author: Chinatsu Kawakami
  Created Date: 2nd August 2017
- Versiton : 0.0.2 add Exception Handler in Startup.cs  
+ Versiton : 0.0.3 add navigation bar in index.html  
  */
 namespace BookReader
 {

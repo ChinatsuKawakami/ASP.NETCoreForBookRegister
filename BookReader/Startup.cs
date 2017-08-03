@@ -23,7 +23,7 @@ namespace BookReader
     {
         private readonly IConfigurationRoot configuration;
 
-        public Startup()
+        public Startup(IHostingEnvironment env)
         {
            
                     configuration = new ConfigurationBuilder()
